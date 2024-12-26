@@ -1,0 +1,25 @@
+.itemsContainer {
+  background-color: white;
+}
+.item {
+  margin-top: 10px;
+  padding: 20px;
+  font-weight: bold;
+}
+.line {
+  border: 1px solid #f4f4f4;
+}
+.decorateButton {
+  border: none;
+  background-color: #f7ca18;
+  float: right;
+  padding: 12px;
+  border-radius: 4px;
+  padding-bottom: 6px;
+  cursor: pointer;
+  color: white;
+}
+
+.completed {
+  text-decoration: line-through;
+}
